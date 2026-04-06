@@ -68,17 +68,9 @@ Quero aprender na prática, trabalhar com tecnologia e evoluir constantemente co
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mullerrtrindade&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mullerrtrindade&layout=compact&theme=dark)
-
----
-
 ## 📫 Contato
 
-- LinkedIn: (coloque seu linkedin aqui)
+- LinkedIn: https://www.linkedin.com/in/mullerrtrindade/
 - Email: mullerrubenstrindade@gmail.com
 - GitHub: https://github.com/mullertrindade
 
