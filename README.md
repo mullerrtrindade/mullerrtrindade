@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Müller Rubens
+# 👋 Olá, eu sou o Müller Trindade
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🛠️ Suporte Técnico | Helpdesk | Redes | Python | Web  
@@ -10,11 +10,7 @@
 ## 🚀 Sobre mim
 
 Sou estudante de tecnologia com experiência prática em suporte técnico, atendimento a usuários e análise básica de redes.  
-Gosto de entender como os sistemas funcionam por trás, resolver problemas e construir soluções.
-
-Tenho facilidade de aprendizado, sou curioso, analítico e gosto de aprender **fazendo projetos**, não apenas estudando teoria.
-
-Atualmente estou desenvolvendo projetos próprios em **Python, Web e Automação**, construindo meu portfólio e evoluindo para trabalhar na área de tecnologia.
+Gosto de entender como os sistemas funcionam por trás, resolver problemas e construir soluções. Tenho facilidade de aprendizado, sou curioso, analítico e gosto de aprender **fazendo projetos**, não apenas estudando teoria. Atualmente estou desenvolvendo projetos próprios em **Python, Web e Automação**, construindo meu portfólio e evoluindo para trabalhar na área de tecnologia.
 
 ---
 
@@ -25,6 +21,7 @@ Atualmente estou desenvolvendo projetos próprios em **Python, Web e Automação
 - HTML
 - CSS
 - JavaScript (iniciando)
+- Java (iniciando)
 
 ### 🛠️ Ferramentas
 - Git
