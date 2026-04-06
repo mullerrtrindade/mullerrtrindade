@@ -21,7 +21,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de tecnologia com experiência prática em suporte técnico, atendimento ao usuário e análise básica de redes.
+Sou estudante de ADS com experiência prática em suporte técnico, atendimento ao usuário e análise básica de redes.
 
 Tenho perfil analítico, curioso e orientado à solução de problemas. Busco sempre entender o funcionamento dos sistemas além do básico, explorando desde infraestrutura até desenvolvimento.
 
