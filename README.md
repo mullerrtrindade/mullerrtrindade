@@ -1,63 +1,93 @@
-# 👋 Olá, eu sou o Müller
+# 👋 Olá, eu sou o Müller Rubens
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Focado em Infraestrutura, Redes e Desenvolvimento de Sistemas  
-🛠️ Suporte Técnico | Helpdesk | Python | Web | Git | Redes  
-🚀 Em constante evolução, aprendendo e construindo projetos na prática
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🛠️ Suporte Técnico | Helpdesk | Redes | Python | Web  
+🚀 Focado em Infraestrutura, Desenvolvimento Backend e Solução de Problemas  
+📍 Brasil  
 
 ---
 
 ## 🚀 Sobre mim
 
-Tenho experiência com suporte técnico, atendimento a usuários e análise básica de redes, o que me ajudou a desenvolver raciocínio lógico, diagnóstico de problemas e comunicação técnica. Atualmente estou estudando desenvolvimento de sistemas e construindo projetos próprios para aprimorar minhas habilidades em programação, backend, automação e infraestrutura. Gosto de aprender fazendo, resolver problemas e entender como os sistemas funcionam por trás.
+Sou estudante de tecnologia com experiência prática em suporte técnico, atendimento a usuários e análise básica de redes.  
+Gosto de entender como os sistemas funcionam por trás, resolver problemas e construir soluções.
+
+Tenho facilidade de aprendizado, sou curioso, analítico e gosto de aprender **fazendo projetos**, não apenas estudando teoria.
+
+Atualmente estou desenvolvendo projetos próprios em **Python, Web e Automação**, construindo meu portfólio e evoluindo para trabalhar na área de tecnologia.
 
 ---
 
-## 🧠 Tecnologias e Estudos
+## 🧠 Tecnologias e Ferramentas
 
+### 💻 Linguagens
 - Python
 - HTML
 - CSS
-- Flask
+- JavaScript (iniciando)
+
+### 🛠️ Ferramentas
+- Git
+- GitHub
+- VS Code
 - Streamlit
-- Git e GitHub
+- Flask
+- Windows / Linux
 - Redes de Computadores
-- Infraestrutura de TI
-- Lógica de Programação
-- Banco de Dados (iniciando)
+
+### 📚 Estudando atualmente
+- Backend com Python
+- Banco de Dados
+- APIs
+- Infraestrutura e Redes
+- Sistemas Web
 
 ---
 
-## 📂 Projetos
+## 📂 Projetos em Desenvolvimento
 
-Alguns projetos que estou desenvolvendo:
-
-- 🔐 Sistema de Login com Python
-- 🌐 Aplicação Web com Flask
-- 📊 Dashboard com Streamlit
-- 🗂️ Sistema de usuários com CSV/Arquivo
-- 🔄 Automação em Python
-- 🌍 Portfólio Web
-
-(Em constante atualização)
+| Projeto | Descrição |
+|--------|-----------|
+| 🔐 Sistema de Login | Sistema de autenticação com Python e arquivo CSV |
+| 🌐 Web App Flask | Aplicação web com login e banco de dados |
+| 📊 Dashboard Streamlit | Dashboard interativo em Python |
+| 🗂️ Gerenciador de Usuários | Sistema CRUD em Python |
+| ⚙️ Automações Python | Scripts para automação de tarefas |
+| 💼 Portfólio Web | Site pessoal de portfólio |
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo Profissional
 
-Busco uma oportunidade de **estágio ou aprendiz na área de TI**, onde eu possa aprender na prática, ajudar a resolver problemas reais e evoluir como profissional de tecnologia.
+Busco uma oportunidade de **estágio ou aprendiz em TI**, nas áreas de:
+
+- Suporte Técnico
+- Infraestrutura
+- Redes
+- Desenvolvimento Backend
+- Análise de Sistemas
+
+Quero aprender na prática, trabalhar com tecnologia e evoluir constantemente como profissional.
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mullertrindade&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mullertrindade&layout=compact&theme=dark)
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: (coloque aqui)
+- LinkedIn: (coloque seu linkedin aqui)
 - Email: mullerrubenstrindade@gmail.com
-- GitHub: https://github.com/mullerrtrindade
+- GitHub: https://github.com/mullertrindade
 
 ---
 
-## ⚡ Frase que me define
+## ⚡ Filosofia
 
-> "Caminho com os pés no presente, o coração na esperança e os olhos no impossível.  
-> Viver, pra mim, é construir com alma o que o mundo ainda não viu."
+> Caminho com os pés no presente, o coração na esperança e os olhos no impossível.  
+> Viver, pra mim, é construir com alma o que o mundo ainda não viu.
