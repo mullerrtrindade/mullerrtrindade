@@ -73,7 +73,7 @@ Atualmente, estou focado em construir projetos reais utilizando Python e tecnolo
 |--------|----------|
 | 🔐 Sistema de Login | Autenticação com Python e persistência em CSV |
 | 🌐 Web App Flask | Aplicação web com autenticação e estrutura backend |
-| 📊 Dashboard | Visualização de dados com Streamlit |
+| 📊 Dashboard | Visualização de dados com Python e BI |
 | 🗂️ CRUD Python | Gerenciamento de usuários |
 | ⚙️ Automações | Scripts para produtividade |
 | 💼 Portfólio Web | Site pessoal profissional |
