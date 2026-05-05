@@ -29,8 +29,10 @@ Atualmente, estou focado em construir projetos reais utilizando Python e tecnolo
 
 ---
 
-## 🧰 Stack Tecnológica
 
+## 🚀 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mullerrtrindade&layout=compact&theme=tokyonight)
 ### 💻 Linguagens
 
 <p>
